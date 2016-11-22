@@ -1,0 +1,83 @@
+
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+h1, h2{
+    font-family: 'Noto Sans KR';
+    color: #fff;
+    font-weight: 600;
+}
+h3 {
+    font-family: 'Noto Sans KR';
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #001C54;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+h4 {
+    font-family: 'Noto Sans KR';
+    font-size: 20px;
+    line-height: 1.4em;
+    color: #001C54;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+h5 {
+    font-family: 'Noto Sans KR';
+    font-size: 25px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.body{
+    font-family: 'Noto Sans KR';
+}
+.jumbotron{
+    background-color: #001C54;
+    color: #fff;
+    font-weight: 400;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.container-fluid {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}#contact{
+     background-color: #001C54;
+     color: #fff;
+ }
+
+.navbar {
+    margin-bottom: 0;
+    background-color: #001C54;
+    z-index: 9999;
+    border: 0;
+    font-size: 12px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+    font-family: Montserrat, sans-serif;
+}
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #001C54 !important;
+    background-color: #fff !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
+
+
