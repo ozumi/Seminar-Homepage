@@ -4,7 +4,7 @@ from django.shortcuts import redirect
 from django.http import HttpResponseRedirect
 from django.core.urlresolvers import reverse
 # Create your views here
-import ipdb;
+#import ipdb;
 
 def register_form(request):
 	if request.method == "POST":
