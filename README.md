@@ -13,4 +13,5 @@
 
 ### 실행 방법 ###
 $ source myvenv/bin/activate
+
 $ python manage.py runserver
