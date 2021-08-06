@@ -2,7 +2,8 @@ from django.shortcuts import render
 from .forms import RegisterForm
 from django.shortcuts import redirect
 from django.http import HttpResponseRedirect
-from django.core.urlresolvers import reverse
+from django.urls import reverse
+
 # Create your views here
 #import ipdb;
 
